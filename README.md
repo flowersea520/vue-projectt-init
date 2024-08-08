@@ -1,6 +1,6 @@
 # judgehub-frontend
 
-## Project setup
+## Project
 ```
 yarn install
 ```
