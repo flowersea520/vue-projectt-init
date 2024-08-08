@@ -4,7 +4,7 @@
 - 快速开发管理功能（增删改查）
 
 # 模板特点
-![img](C:\Users\lxc\IdeaProjects\planetProject\judgehub-frontend\public\img.png)
+![img](public/img.png)
 ## 主流框架 & 特性
 - **Vue-Cli初始化脚手架**
 - **vue3**
